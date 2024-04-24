@@ -20,7 +20,7 @@ The following key are automated:
 - Testing Framework: TestNG
 
 ## Install Wordpress :
--[Install WordPress Using XAMPP](https://elementor.com/academy/install-wordpress-xampp/)
+- [Install WordPress Using XAMPP](https://elementor.com/academy/install-wordpress-xampp/)
 
 ## Prerequisite :
 - Need to install jdk 11, gradle and allure
