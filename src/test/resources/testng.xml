@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name ="WP Dark Mode">
+    <test name ="Admin Login and Check Plugin Is Active or NOt">
+        <classes>
+            <class name = "testrunner.LoginTestRunner"> </class>
+        </classes>
+    </test>
+
+    <test name ="Enable Dark Mode">
+        <classes>
+            <class name = "testrunner.WpDarkModeTestRunner"> </class>
+        </classes>
+    </test>
+</suite>
